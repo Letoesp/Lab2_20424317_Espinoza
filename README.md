@@ -2,3 +2,4 @@
 Lab 2 de Paradigmas de programación 2-2022
 proolog
 log
+logf
